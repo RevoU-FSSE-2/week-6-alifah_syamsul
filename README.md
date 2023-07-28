@@ -1,4 +1,4 @@
-# Dockerizing a Simple Node.js App
+# RevoU-FSSE-2023H2 _ Alifah Syamsul _ W6 Intermediate Assignment _ Dockerizing a Simple Node.js App
 
 This guide will walk you through the process of dockerizing a simple Node.js app on a Windows system, using Docker Desktop and Windows Subsystem for Linux.
 
